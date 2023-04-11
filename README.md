@@ -36,7 +36,7 @@ fazer parte por conta da história e das pessoas que fazem parte dela.
 
 <div>
 
-<img src="D:/Documentos/portfolio/imagens/fotor_2023-3-11_14_40_0.png" width="60%" style="display: block; margin: auto;" />
+<img src="https://github.com/cardimdanillo/cardimdanillo/issues/1#issue-1661582552" width="60%" style="display: block; margin: auto;" />
 
 </div>
 
